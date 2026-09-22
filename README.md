@@ -1,7 +1,7 @@
 <!-- Chetan Khandelwal — GitHub Profile README -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=CHETAN%20KHANDELWAL&fontSize=56&fontColor=FFFFFF&fontAlignY=36&desc=13%2B%20YEARS%20%E2%80%A2%20SENIOR%20FULL%20STACK%20ENGINEER&descAlignY=58&descSize=18&descColor=67E8F9&animation=twinkling&color=0:030712,35:0B1B33,62:164E63,82:0891B2,100:06B6D4" width="100%" alt="Chetan Khandelwal animated banner"/>
+  <img src="https://raw.githubusercontent.com/chetan11fb/chetan11fb/main/assets/chetan-tech-banner.svg" width="100%" alt="Chetan Khandelwal futuristic animated technology banner"/>
 </p>
 
 <p align="center">
