@@ -190,5 +190,5 @@ Use **GitHub Copilot, Prompt Engineering, Custom Agents and Agentic AI** to acce
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&animation=twinkling&color=0:06B6D4,35:0891B2,70:164E63,100:030712" width="100%" alt="animated footer"/>
+  <img src="https://raw.githubusercontent.com/chetan11fb/chetan11fb/main/assets/animated-ocean-footer.svg" width="100%" alt="Cinematic animated ocean technology footer with ship, birds, fish and sunset"/>
 </p>
