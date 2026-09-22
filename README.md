@@ -43,24 +43,36 @@
 
 <h2 align="center">🧠 WHAT I DO</h2>
 
+<p align="center">
+  <b>Senior .NET Core Full Stack Engineer focused on enterprise application engineering, cloud architecture and AI-assisted development.</b>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chetan11fb/chetan11fb/main/assets/what-i-do-engineering.svg" width="100%" alt="Animated VS Code style view of Chetan Khandelwal engineering with .NET Core, Angular, Azure, Spec Kit, SDD and Agentic AI"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=1200&pause=300&color=67E8F9&center=true&vCenter=true&width=1050&height=40&lines=DESIGN+%E2%86%92+CODE+%E2%86%92+TEST+%E2%86%92+OBSERVE+%E2%86%92+IMPROVE;ENTERPRISE+.NET+%E2%80%A2+ANGULAR+%E2%80%A2+AZURE+%E2%80%A2+SDD+%E2%80%A2+AI+AGENTS" alt="engineering workflow animation"/>
+</p>
+
 <table align="center">
 <tr>
 <td width="50%" valign="top">
 
-### .NET Full Stack
-Build enterprise applications using **.NET 8, C#, ASP.NET Core, Web API, Entity Framework Core, LINQ, Microservices** and modern **Angular + TypeScript** frontends.
+### ⚙️ .NET Core Full Stack
+Design and build **enterprise-grade applications** with **.NET 8, C#, ASP.NET Core, Web API, EF Core, LINQ, Microservices** and **Angular/TypeScript**.
 
-### ☁️ Azure
-Work across **Azure Functions, Service Bus, APIM, App Service and Storage**, connecting application architecture with cloud integration.
+### ☁️ Cloud & Architecture
+Translate business requirements into **scalable APIs, cloud integrations and resilient architectures** using **Azure Functions, Service Bus, APIM, App Service** and event-driven patterns.
 
 </td>
 <td width="50%" valign="top">
 
-### 🧩 Spec Kit / SDD
-Use specification-driven development concepts to turn requirements into structured engineering work, implementation and review.
+### 🧩 Specification-Driven Engineering
+Use **Spec Kit / SDD** to move from requirement → specification → implementation → review with a structured engineering workflow.
 
-### 🤖 Agents & Agentic AI
-Build and work with **AI Agents, Custom Agent Development, GitHub Copilot, Prompt Engineering and Prompt-Based Coding** to automate developer workflows.
+### 🤖 AI-Assisted Engineering
+Use **GitHub Copilot, Prompt Engineering, Custom Agents and Agentic AI** to accelerate development, code review, testing, documentation and developer workflows.
 
 </td>
 </tr>
