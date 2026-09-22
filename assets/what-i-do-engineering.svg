@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+<title id="title">Chetan Khandelwal — Senior .NET Core Full Stack Engineer</title>
+<desc id="desc">Animated VS Code style terminal showing enterprise .NET full stack engineering, Azure, SDD and AI agent development.</desc>
+<defs>
+<linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#020617"/><stop offset=".55" stop-color="#071a2d"/><stop offset="1" stop-color="#020617"/></linearGradient>
+<linearGradient id="bar" x1="0" x2="1"><stop stop-color="#0f172a"/><stop offset=".5" stop-color="#102a43"/><stop offset="1" stop-color="#0f172a"/></linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<style>
+.t{font:800 24px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#e0f2fe}
+.s{font:600 14px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#67e8f9}
+.code{font:500 16px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#dbeafe}
+.dim{font:500 14px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#64748b}
+.kw{fill:#c084fc}.type{fill:#67e8f9}.str{fill:#86efac}.fn{fill:#fde68a}
+</style>
+</defs>
+<rect width="1200" height="620" rx="28" fill="url(#bg)"/>
+<text x="600" y="42" text-anchor="middle" class="t">WHAT I DO • SENIOR .NET CORE FULL STACK ENGINEERING</text>
+<rect x="55" y="65" width="1090" height="500" rx="18" fill="#020617" stroke="#164e63" stroke-width="2"/>
+<rect x="55" y="65" width="1090" height="48" rx="18" fill="url(#bar)"/>
+<circle cx="82" cy="89" r="7" fill="#ef4444"/><circle cx="104" cy="89" r="7" fill="#f59e0b"/><circle cx="126" cy="89" r="7" fill="#22c55e"/>
+<text x="155" y="95" class="s">Chetan.Engineering.cs</text>
+<text x="1090" y="95" text-anchor="end" class="dim">● LIVE CODING</text>
+
+<text x="82" y="145" class="dim">01</text>
+<text x="118" y="145" class="kw">public sealed class</text>
+<text x="340" y="145" class="type">SeniorDotNetFullStackEngineer</text>
+<text x="665" y="145" class="code">{</text>
+
+<text x="82" y="180" class="dim">02</text>
+<text x="118" y="180" class="kw">public void</text>
+<text x="245" y="180" class="fn">BuildEnterpriseSystems</text><text x="470" y="180" class="code">()</text>
+<text x="480" y="180" class="code">{</text>
+
+<text x="82" y="215" class="dim">03</text>
+<text x="118" y="215" class="type">Backend</text><text x="215" y="215" class="code"> = </text><text x="245" y="215" class="str">".NET 8 • C# • ASP.NET Core • Web API • EF Core"</text>
+
+<text x="82" y="250" class="dim">04</text>
+<text x="118" y="250" class="type">Frontend</text><text x="215" y="250" class="code"> = </text><text x="245" y="250" class="str">"Angular • TypeScript • enterprise UX"</text>
+
+<text x="82" y="285" class="dim">05</text>
+<text x="118" y="285" class="type">Architecture</text><text x="245" y="285" class="code"> = </text><text x="275" y="285" class="str">"Microservices • APIs • Event-driven • SOLID"</text>
+
+<text x="82" y="320" class="dim">06</text>
+<text x="118" y="320" class="type">Cloud</text><text x="215" y="320" class="code"> = </text><text x="245" y="320" class="str">"Azure Functions • Service Bus • APIM • App Service"</text>
+
+<text x="82" y="355" class="dim">07</text>
+<text x="118" y="355" class="type">Engineering</text><text x="245" y="355" class="code"> = </text><text x="275" y="355" class="str">"CI/CD • Testing • Observability • RCA • Performance"</text>
+
+<text x="82" y="390" class="dim">08</text>
+<text x="118" y="390" class="type">ModernAI</text><text x="245" y="390" class="code"> = </text><text x="275" y="390" class="str">"Spec Kit • SDD • Copilot • Custom Agents • Agentic AI"</text>
+
+<text x="82" y="425" class="dim">09</text>
+<text x="118" y="425" class="fn">Ship</text><text x="175" y="425" class="code">(</text><text x="190" y="425" class="str">"Reliable • Maintainable • Scalable • Production-ready"</text><text x="695" y="425" class="code">);</text>
+
+<text x="82" y="460" class="dim">10</text>
+<text x="118" y="460" class="code">}</text>
+<text x="82" y="495" class="dim">11</text>
+<text x="118" y="495" class="code">}</text>
+
+<rect x="760" y="145" width="345" height="295" rx="14" fill="#07111f" stroke="#164e63"/>
+<text x="785" y="178" class="s">ENGINEERING SIGNAL</text>
+<path d="M785 205H1080" stroke="#164e63"/>
+<text x="785" y="232" class="dim">EXPERIENCE</text><text x="1080" y="232" text-anchor="end" class="type">13+ YEARS</text>
+<text x="785" y="264" class="dim">FOCUS</text><text x="1080" y="264" text-anchor="end" class="type">.NET CORE</text>
+<text x="785" y="296" class="dim">STACK</text><text x="1080" y="296" text-anchor="end" class="type">FULL STACK</text>
+<text x="785" y="328" class="dim">CLOUD</text><text x="1080" y="328" text-anchor="end" class="type">AZURE</text>
+<text x="785" y="360" class="dim">METHOD</text><text x="1080" y="360" text-anchor="end" class="type">SDD / SPEC</text>
+<text x="785" y="392" class="dim">NEXT</text><text x="1080" y="392" text-anchor="end" class="type">AGENTIC AI</text>
+<circle cx="785" cy="420" r="5" fill="#22d3ee" filter="url(#glow)"/>
+<text x="800" y="425" class="s">BUILD • REVIEW • AUTOMATE</text>
+
+<g opacity=".9">
+<rect x="70" y="530" width="1040" height="2" fill="#083344"/>
+<circle cx="90" cy="531" r="4" fill="#22d3ee"><animate attributeName="cx" from="90" to="1090" dur="3.5s" repeatCount="indefinite"/></circle>
+</g>
+</svg>
