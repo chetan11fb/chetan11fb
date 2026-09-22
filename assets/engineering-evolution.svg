@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">Chetan Khandelwal — .NET to Agentic AI engineering loop</title>
+<desc id="desc">Animated developer running through .NET, Azure, Spec Kit, SDD and Agentic AI stages.</desc>
+<defs>
+<linearGradient id="bg" x1="0" x2="1"><stop offset="0" stop-color="#020617"/><stop offset=".5" stop-color="#071b2d"/><stop offset="1" stop-color="#020617"/></linearGradient>
+<linearGradient id="line" x1="0" x2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<style>.label{font:700 18px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#dffcff;letter-spacing:1px}.sub{font:500 12px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#7dd3fc}.title{font:800 28px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#ecfeff;letter-spacing:2px}</style>
+</defs>
+<rect width="1200" height="420" rx="28" fill="url(#bg)"/>
+<path d="M30 370H1170M30 48H1170" stroke="#164e63" opacity=".45"/>
+<g opacity=".18" stroke="#22d3ee"><path d="M60 90H1140M60 120H1140M60 150H1140M60 180H1140M60 210H1140M60 240H1140M60 270H1140M60 300H1140M60 330H1140"/><path d="M100 55V365M180 55V365M260 55V365M340 55V365M420 55V365M500 55V365M580 55V365M660 55V365M740 55V365M820 55V365M900 55V365M980 55V365M1060 55V365M1140 55V365"/></g>
+<text x="600" y="48" text-anchor="middle" class="title">ENGINEERING EVOLUTION • LIVE PIPELINE</text>
+<path d="M105 260 C220 115 335 115 450 260 S680 405 800 260 S1030 115 1095 260" fill="none" stroke="#083344" stroke-width="18"/>
+<path d="M105 260 C220 115 335 115 450 260 S680 405 800 260 S1030 115 1095 260" fill="none" stroke="url(#line)" stroke-width="3" stroke-dasharray="10 12" filter="url(#glow)"><animate attributeName="stroke-dashoffset" from="0" to="-220" dur="3s" repeatCount="indefinite"/></path>
+<g filter="url(#glow)">
+<circle cx="105" cy="260" r="16" fill="#06b6d4"><animate attributeName="r" values="13;20;13" dur="1.8s" repeatCount="indefinite"/></circle>
+<circle cx="335" cy="165" r="16" fill="#38bdf8"><animate attributeName="r" values="13;20;13" dur="1.8s" begin=".3s" repeatCount="indefinite"/></circle>
+<circle cx="570" cy="340" r="16" fill="#818cf8"><animate attributeName="r" values="13;20;13" dur="1.8s" begin=".6s" repeatCount="indefinite"/></circle>
+<circle cx="800" cy="260" r="16" fill="#a78bfa"><animate attributeName="r" values="13;20;13" dur="1.8s" begin=".9s" repeatCount="indefinite"/></circle>
+<circle cx="1095" cy="260" r="16" fill="#22d3ee"><animate attributeName="r" values="13;20;13" dur="1.8s" begin="1.2s" repeatCount="indefinite"/></circle></g>
+<g text-anchor="middle">
+<text x="105" y="310" class="label">.NET / C#</text><text x="105" y="330" class="sub">FULL STACK</text>
+<text x="335" y="115" class="label">AZURE</text><text x="335" y="95" class="sub">CLOUD</text>
+<text x="570" y="395" class="label">SPEC KIT</text><text x="570" y="415" class="sub">SDD</text>
+<text x="800" y="310" class="label">AI AGENTS</text><text x="800" y="330" class="sub">CUSTOM AGENTS</text>
+<text x="1095" y="310" class="label">AGENTIC AI</text><text x="1095" y="330" class="sub">AUTOMATE</text></g>
+<path id="runnerPath" d="M105 260 C220 115 335 115 450 260 S680 405 800 260 S1030 115 1095 260" fill="none"/>
+<g>
+<g transform="translate(-20 -25)">
+<circle cx="0" cy="0" r="6" fill="#fff"/><path d="M0 7L0 25M0 13L-9 20M0 13L9 6M0 25L-8 35M0 25L8 35" stroke="#67e8f9" stroke-width="4" stroke-linecap="round"/></g>
+<animateMotion dur="7s" repeatCount="indefinite" rotate="auto"><mpath href="#runnerPath"/></animateMotion>
+</g>
+<g transform="translate(535 62)"><rect width="130" height="30" rx="15" fill="#082f49" stroke="#22d3ee"/><text x="65" y="20" text-anchor="middle" class="sub">BUILD → EVOLVE</text></g>
+</svg>
