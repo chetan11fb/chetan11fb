@@ -26,32 +26,19 @@
 <h2 align="center">⚡ MY ENGINEERING JOURNEY</h2>
 
 <p align="center">
-  <b>One developer. One evolving stack. From enterprise .NET to AI-powered engineering.</b>
+  <b>From enterprise .NET engineering → cloud architecture → specification-driven development → AI agents → agentic engineering.</b>
 </p>
 
-<!--
-  GitHub README cannot execute arbitrary CSS/JavaScript.
-  This animated SVG is intentionally embedded as an image so the journey
-  remains GitHub-compatible while providing a moving visual.
--->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=1400&pause=350&color=22D3EE&center=true&vCenter=true&width=1000&height=120&multiline=true&repeat=true&lines=%F0%9F%8F%83+%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%BA+.%NET+FULL+STACK+%E2%86%92+AZURE+%E2%86%92+SPEC+KIT+%2F+SDD+%E2%86%92+AI+AGENTS+%E2%86%92+CUSTOM+AGENTS+%E2%86%92+AGENTIC+AI;CODE+%E2%86%92+ARCHITECTURE+%E2%86%92+CLOUD+%E2%86%92+AUTOMATION+%E2%86%92+AI-ASSISTED+ENGINEERING" alt="animated engineering journey"/>
+  <img src="https://raw.githubusercontent.com/chetan11fb/chetan11fb/main/assets/engineering-evolution.svg" width="100%" alt="Animated engineering evolution from .NET and Azure to Spec Kit, AI Agents and Agentic AI"/>
 </p>
 
-<table align="center">
-<tr>
-<td align="center" width="16%"><b>01</b><br/>.NET<br/><sub>FULL STACK</sub></td>
-<td align="center" width="16%">➜</td>
-<td align="center" width="16%"><b>02</b><br/>AZURE<br/><sub>CLOUD</sub></td>
-<td align="center" width="16%">➜</td>
-<td align="center" width="16%"><b>03</b><br/>SPEC KIT<br/><sub>SDD</sub></td>
-<td align="center" width="16%">➜</td>
-<td align="center" width="16%"><b>04</b><br/>AI AGENTS<br/><sub>AGENTIC AI</sub></td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=16&duration=1100&pause=250&color=67E8F9&center=true&vCenter=true&width=1050&height=42&lines=.NET+FULLSTACK+%E2%9A%A1+AZURE+%E2%9A%A1+SPEC+KIT+%2B+SDD+%E2%9A%A1+CUSTOM+AGENTS+%E2%9A%A1+AGENTIC+AI;REQUIREMENT+%E2%86%92+SPECIFY+%E2%86%92+BUILD+%E2%86%92+TEST+%E2%86%92+OBSERVE+%E2%86%92+AUTOMATE;CODE+IS+THE+OUTPUT.+ENGINEERING+IS+THE+SYSTEM." alt="animated engineering pipeline labels"/>
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=90&text=%E2%9A%A1%20CODE%20%E2%86%92%20CLOUD%20%E2%86%92%20SPECIFY%20%E2%86%92%20AGENTIZE%20%E2%86%92%20AUTOMATE&fontSize=18&fontColor=67E8F9&color=030712&animation=fadeIn" width="94%" alt="engineering cycle"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=82&text=%E2%9A%A1%20ENGINEERING%20LOOP%20%3A%20CODE%20%E2%86%92%20CLOUD%20%E2%86%92%20SPECIFY%20%E2%86%92%20AGENTIZE%20%E2%86%92%20AUTOMATE&fontSize=17&fontColor=67E8F9&color=0:020617,50:082f49,100:020617&animation=fadeIn" width="94%" alt="engineering loop"/>
 </p>
 
 <h2 align="center">🧠 WHAT I DO</h2>
