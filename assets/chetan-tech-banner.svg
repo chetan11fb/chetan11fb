@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 520" width="1600" height="520" role="img" aria-labelledby="title desc">
+<title id="title">Chetan Khandelwal — Senior Full Stack Engineer</title>
+<desc id="desc">Futuristic animated technology cloud with Chetan Khandelwal and technology terms moving from the background toward and away from the viewer.</desc>
+<defs>
+  <radialGradient id="bg"><stop stop-color="#123b5d"/><stop offset=".45" stop-color="#061827"/><stop offset="1" stop-color="#01050b"/></radialGradient>
+  <linearGradient id="name" x1="0" x2="1"><stop stop-color="#67e8f9"/><stop offset=".5" stop-color="#fff"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="blur"><feGaussianBlur stdDeviation="2.5"/></filter>
+  <style>
+    .tech{font:600 15px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#67e8f9;letter-spacing:1px}
+    .tiny{font:500 11px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#38bdf8;opacity:.75}
+    .sub{font:600 15px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#cbd5e1;letter-spacing:4px}
+    .name{font:900 61px ui-monospace,SFMono-Regular,Menlo,monospace;fill:url(#name);letter-spacing:5px}
+  </style>
+</defs>
+<rect width="1600" height="520" fill="url(#bg)"/>
+<!-- star / data field -->
+<g fill="#fff" opacity=".65">
+<circle cx="75" cy="72" r="1"/><circle cx="151" cy="145" r="1.5"/><circle cx="240" cy="62" r="1"/><circle cx="1350" cy="90" r="1.4"/><circle cx="1490" cy="178" r="1"/><circle cx="1420" cy="390" r="1.5"/><circle cx="180" cy="390" r="1.2"/><circle cx="1280" cy="450" r="1"/>
+</g>
+<g fill="none" stroke="#22d3ee" opacity=".16">
+<ellipse cx="800" cy="265" rx="700" ry="205"/><ellipse cx="800" cy="265" rx="560" ry="160"/><ellipse cx="800" cy="265" rx="410" ry="118"/>
+</g>
+<!-- background technology particles: zoom in/out -->
+<g text-anchor="middle" filter="url(#blur)">
+<g class="tech">
+<text x="180" y="115">.NET 8</text><text x="380" y="80">C#</text><text x="610" y="125">ANGULAR</text><text x="980" y="105">AZURE</text><text x="1240" y="135">MICROSERVICES</text><text x="1430" y="80">WEB API</text>
+<text x="120" y="320">EF CORE</text><text x="330" y="410">TYPESCRIPT</text><text x="1260" y="350">SERVICE BUS</text><text x="1460" y="285">APIM</text>
+<text x="240" y="470">SPEC KIT</text><text x="520" y="455">SDD</text><text x="1060" y="465">CUSTOM AGENTS</text><text x="1370" y="440">AGENTIC AI</text>
+</g>
+<g opacity=".55">
+<text x="800" y="85" class="tiny">ARCHITECTURE • CLOUD • AUTOMATION • AI</text>
+<text x="800" y="475" class="tiny">BUILD  •  OBSERVE  •  EVOLVE</text>
+</g>
+</g>
+<!-- central name shield -->
+<g filter="url(#glow)">
+<rect x="300" y="145" width="1000" height="235" rx="34" fill="#020b15" fill-opacity=".82" stroke="#164e63" stroke-width="2"/>
+<path d="M300 180H1300M300 345H1300" stroke="#0e7490" opacity=".45"/>
+</g>
+<text x="800" y="220" text-anchor="middle" class="sub">SENIOR FULL STACK ENGINEER</text>
+<text x="800" y="292" text-anchor="middle" class="name">CHETAN KHANDELWAL</text>
+<text x="800" y="330" text-anchor="middle" class="tech">.NET CORE  •  AZURE  •  SDD  •  AI AGENTS  •  AGENTIC AI</text>
+<g>
+<circle cx="360" cy="362" r="4" fill="#22d3ee"/><circle cx="1240" cy="362" r="4" fill="#a78bfa"/>
+<path d="M390 362H1210" stroke="url(#name)" stroke-width="1" stroke-dasharray="4 12">
+<animate attributeName="stroke-dashoffset" from="0" to="-160" dur="2.5s" repeatCount="indefinite"/>
+</path></g>
+<!-- foreground zoom particles -->
+<g font-family="ui-monospace,monospace" text-anchor="middle">
+<text x="800" y="125" class="tech" opacity="0">GITHUB COPILOT
+<animate attributeName="opacity" values="0;.9;0" dur="5s" repeatCount="indefinite"/>
+<animate attributeName="font-size" values="10;28;10" dur="5s" repeatCount="indefinite"/></text>
+<text x="800" y="410" class="tech" opacity="0">PROMPT ENGINEERING
+<animate attributeName="opacity" values="0;.9;0" dur="6s" begin="1s" repeatCount="indefinite"/>
+<animate attributeName="font-size" values="9;25;9" dur="6s" begin="1s" repeatCount="indefinite"/></text>
+<text x="800" y="155" class="tech" opacity="0">MICROSERVICES
+<animate attributeName="opacity" values="0;.7;0" dur="4s" begin="2s" repeatCount="indefinite"/>
+<animate attributeName="font-size" values="8;23;8" dur="4s" begin="2s" repeatCount="indefinite"/></text>
+</g>
+<!-- scanning beam -->
+<rect x="330" y="145" width="940" height="2" fill="#22d3ee" opacity=".55" filter="url(#glow)">
+<animate attributeName="y" values="145;378;145" dur="4s" repeatCount="indefinite"/>
+</rect>
+</svg>
